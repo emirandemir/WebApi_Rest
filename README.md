@@ -1,1 +1,3 @@
-<h4>Katmanlı Mimari ile rest Api projesinin temelleri atıldı.</h4>
+# Katmanlı Mimaride Rest Api
+
+<h4>Projenin temelleri oluşturuldu.</h4>
