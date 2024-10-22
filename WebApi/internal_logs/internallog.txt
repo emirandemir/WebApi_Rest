@@ -2,3 +2,33 @@
 2024-10-05 16:01:51.7314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
 2024-10-05 16:01:51.7314 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
 2024-10-05 16:01:51.7520 Info Configuration initialized.
+2024-10-10 20:43:02.0492 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-10 20:43:02.0492 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-10 20:43:02.0703 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-10 20:43:02.0703 Info Configuration initialized.
+2024-10-10 20:43:02.7722 Info AppDomain Shutting down. LogFactory closing...
+2024-10-10 20:43:02.7722 Info LogFactory has been closed.
+2024-10-13 16:05:28.7748 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-13 16:05:28.7868 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-13 16:05:28.7974 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-13 16:05:28.7974 Info Configuration initialized.
+2024-10-13 16:08:53.9251 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-13 16:08:53.9343 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-13 16:08:53.9343 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-13 16:08:53.9521 Info Configuration initialized.
+2024-10-13 16:14:25.2606 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-13 16:14:25.2714 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-13 16:14:25.2816 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-13 16:14:25.2816 Info Configuration initialized.
+2024-10-13 16:39:32.0121 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-13 16:39:32.0238 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-13 16:39:32.0359 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-13 16:39:32.0472 Info Configuration initialized.
+2024-10-22 21:13:57.2453 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-22 21:13:57.2676 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-22 21:13:57.2899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-22 21:13:57.3057 Info Configuration initialized.
+2024-10-22 21:16:13.4467 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-22 21:16:13.4613 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-22 21:16:13.4780 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-22 21:16:13.4919 Info Configuration initialized.
