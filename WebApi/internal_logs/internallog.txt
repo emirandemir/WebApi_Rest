@@ -32,3 +32,19 @@
 2024-10-22 21:16:13.4613 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
 2024-10-22 21:16:13.4780 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
 2024-10-22 21:16:13.4919 Info Configuration initialized.
+2024-10-27 19:54:43.2900 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-27 19:54:43.3013 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-27 19:54:43.3123 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-27 19:54:43.3123 Info Configuration initialized.
+2024-10-27 19:57:25.0214 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-27 19:57:25.0391 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-27 19:57:25.0551 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-27 19:57:25.0664 Info Configuration initialized.
+2024-10-27 19:57:32.8906 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-27 19:57:32.8906 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-27 19:57:32.9160 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-27 19:57:32.9257 Info Configuration initialized.
+2024-10-27 20:00:00.7091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-27 20:00:00.7376 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-27 20:00:00.7694 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\gecic\source\repos\WebApi\WebApi\nlog.config
+2024-10-27 20:00:00.7976 Info Configuration initialized.
