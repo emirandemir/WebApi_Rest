@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using NLog;
+using Presentation.ActionFilter;
 using Repositories.EFCore;
 using Services;
 using Services.Contracts;
@@ -19,6 +20,8 @@ builder.Services.AddControllers(config =>
     .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly)
     .AddNewtonsoftJson();
 
+builder.Services.AddScoped<ValidationFilterAttribute>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -28,6 +31,7 @@ builder.Services.ConfigureRepositoryManager();
 builder.Services.ConfigureServiceManager(); 
 builder.Services.ConfigureLoggerService();
 builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.ConfigureActionFilters();
 
 var app = builder.Build();
 
