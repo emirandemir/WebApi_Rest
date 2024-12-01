@@ -6,3 +6,4 @@
 <h4>Proje automapper kütüphenesi eklendi ve update işlemi mapping üzerinden sağlandı.</h4>
 <h4>Api farklı formatlarda çıktı verebilecek şekilde düzenlendi.</h4>
 <h4>ActionFilter Attributelar tanımlandı.</h4>
+<h4>Sayfalama işlemi eklendi.</h4>
